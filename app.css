@@ -1,0 +1,18 @@
+#figures-only {
+    width: 1000px;
+    height: 800px;
+}
+
+#logo {
+    width: 200px;
+}
+
+h1 {
+    font-family: impact;
+    color: #0d0f0a;
+}
+
+p {
+    font-family: 'Courier New';
+    color: #ff6400;
+}
